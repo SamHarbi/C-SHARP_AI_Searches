@@ -1,0 +1,13 @@
+C:\Users\Sam\source\repos\CovidAI-V2\bin\Debug\netcoreapp3.1\CovidAI-V2.exe
+C:\Users\Sam\source\repos\CovidAI-V2\bin\Debug\netcoreapp3.1\CovidAI-V2.deps.json
+C:\Users\Sam\source\repos\CovidAI-V2\bin\Debug\netcoreapp3.1\CovidAI-V2.runtimeconfig.json
+C:\Users\Sam\source\repos\CovidAI-V2\bin\Debug\netcoreapp3.1\CovidAI-V2.runtimeconfig.dev.json
+C:\Users\Sam\source\repos\CovidAI-V2\bin\Debug\netcoreapp3.1\CovidAI-V2.dll
+C:\Users\Sam\source\repos\CovidAI-V2\bin\Debug\netcoreapp3.1\CovidAI-V2.pdb
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.AssemblyInfo.cs
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.dll
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.pdb
+C:\Users\Sam\source\repos\CovidAI-V2\obj\Debug\netcoreapp3.1\CovidAI-V2.genruntimeconfig.cache
